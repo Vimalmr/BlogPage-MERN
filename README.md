@@ -2,6 +2,10 @@
 
 This repository contains the code for my personal blog website built using a combination of frontend and backend technologies.
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Vimalmr/BlogPage-NodeJs-MongoDB/main/Img/Home.png))
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Vimalmr/BlogPage-NodeJs-MongoDB/main/Img/Register.png))
+
 ## Frontend:
 * HTML5
 * CSS3
