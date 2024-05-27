@@ -2,9 +2,9 @@
 
 This repository contains the code for my personal blog website built using a combination of frontend and backend technologies.
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Vimalmr/BlogPage-NodeJs-MongoDB/main/Img/Home.png))
+![Screenshot (111)](https://github.com/Vimalmr/BlogPage-NodeJs-MongoDB/assets/78142299/4ceca694-6a23-4b20-b03c-3494261e78f5)
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Vimalmr/BlogPage-NodeJs-MongoDB/main/Img/Register.png))
+![Screenshot (112)](https://github.com/Vimalmr/BlogPage-NodeJs-MongoDB/assets/78142299/425874fc-b046-43db-bcf5-2fbf979414d6)
 
 ## Frontend:
 * HTML5
